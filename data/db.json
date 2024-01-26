@@ -1,3 +1,23 @@
 {
+  "users": [
+    {
+      "id": "1706036111967yxvz5jcb",
+      "name": "samiulossp",
+      "email": "samiulossp@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "17060361276783em6h9oo",
+      "name": "dev.samiul",
+      "email": "dev.samiul@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "1706118229703z7pl5jpg",
+      "name": "samiulh4",
+      "email": "samiulh4@gmail.com",
+      "password": "123456"
+    }
+  ],
   "blogs": []
 }

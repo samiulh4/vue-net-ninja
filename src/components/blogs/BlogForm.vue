@@ -87,11 +87,5 @@ export default {
 };
 </script>
 <style scoped>
-.button-submit {
-  width: 100%;
-  padding: 15px 0;
-}
-.button-submit button {
-  float: right;
-}
+
 </style>

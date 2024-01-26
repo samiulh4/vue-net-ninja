@@ -1,8 +1,8 @@
-# vue-net-ninja
+# Vue JS 3 (Net Ninja Series)
 
-## Project setup
+### Installation Vue CLI
 ```
-npm install
+npm install -g @vue/cli
 ```
 
 ### Compiles and hot-reloads for development
@@ -23,3 +23,5 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 npm install json-server --save
 json-server --watch data/db.json
 npx json-server --watch data/db.json
+
+https://serversideup.net/beginning-vuex-4-with-vue-3/
